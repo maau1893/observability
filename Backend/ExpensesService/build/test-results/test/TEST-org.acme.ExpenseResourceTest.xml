@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.acme.ExpenseResourceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-13T10:11:05" hostname="MACEX362.local" time="0.597">
+  <properties/>
+  <testcase name="testExpensesEndpoint()" classname="org.acme.ExpenseResourceTest" time="0.597"/>
+  <system-out><![CDATA[11:11:05 quarkus - expenses 1.0.0-SNAPSHOT on JVM (powered by Quarkus 3.2.4.Final) started in 1.420s. Listening on: http://localhost:808111:11:05 quarkus - Profile test activated. 11:11:05 quarkus - Installed features: [cdi, kotlin, resteasy-reactive, resteasy-reactive-jackson, smallrye-context-propagation, vertx]11:11:05 ExpenseResource - Get all expenses]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
