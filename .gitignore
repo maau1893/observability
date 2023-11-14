@@ -1,5 +1,6 @@
 # Ignore build artifacts and compiled code
 /build/
+**/build/
 /dist/
 /node_modules/
 /.idea/
@@ -16,6 +17,7 @@
 *.swp
 *.bak
 .DS_Store
+**.DS_Store
 
 # Ignore temporary files
 *.tmp
